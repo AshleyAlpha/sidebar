@@ -36,7 +36,7 @@
     position: fixed;
     top: 2rem;
     right: 3rem;
-    color: #e94949;
+    color: teal;
     font-size: 1.5rem;
     cursor: pointer;
   }
@@ -47,7 +47,7 @@
   
   .fa-times {
     font-size: 1.5rem;
-    color: #e94949;
+    color: teal;
     cursor: pointer;
   }
   
@@ -73,6 +73,6 @@
   }
   
   .menu a:hover {
-    background: #f8a5a5;
+    background: rgb(167, 244, 244);
     padding-left: 1.7rem;
   }
